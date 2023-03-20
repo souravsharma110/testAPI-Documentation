@@ -1,5 +1,12 @@
 # MVP for Push Notifications
 
+- [MVP for Push Notifications](#mvp-for-push-notifications)
+    - [What Problems it can solve?](#what-problems-it-can-solve)
+    - [What are the core value proposition for having a feature like Push Notifications in any application?](#what-are-the-core-value-proposition-for-having-a-feature-like-push-notifications-in-any-application)
+    - [Some Essential Features of Push Notification](#some-essential-features-of-push-notification)
+    - [Feature Prioritization](#feature-prioritization)
+    - [What all APIs needs to be developed](#what-all-apis-needs-to-be-developed)
+
 ### What Problems it can solve?
 
 1. ***Keeping users engaged***: Push notifications can remind users about the app and encourage them to use it more frequently. They can also provide personalized and relevant content to users based on their preferences, which can increase engagement.
