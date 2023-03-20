@@ -2,34 +2,34 @@
 
 - [MVP for Push Notifications](#mvp-for-push-notifications)
     - [What Problems it can solve?](#what-problems-it-can-solve)
-    - [What are the core value proposition for having a feature like Push Notifications in any application?](#what-are-the-core-value-proposition-for-having-a-feature-like-push-notifications-in-any-application)
+    - [What are the core value proposition for having Push Notifications in any application?](#what-are-the-core-value-proposition-for-having-push-notifications-in-any-application)
     - [Some Essential Features of Push Notification](#some-essential-features-of-push-notification)
     - [Feature Prioritization](#feature-prioritization)
     - [What all APIs needs to be developed](#what-all-apis-needs-to-be-developed)
 
 ### What Problems it can solve?
 
-1. ***Keeping users engaged***: Push notifications can remind users about the app and encourage them to use it more frequently. They can also provide personalized and relevant content to users based on their preferences, which can increase engagement.
+1. ***Updating users with important information***: Push notifications can update users with important information, such as news updates, weather alerts, or sports scores. This can help users stay informed and up-to-date.
 
-2. ***Updating users with important information***: Push notifications can update users with important information, such as news updates, weather alerts, or sports scores. This can help users stay informed and up-to-date.
+2. ***Providing timely reminders***: Push notifications can serve as reminders for users to complete certain tasks, such as making a payment, submitting a form, or taking a medication.
 
-3. ***Providing timely reminders***: Push notifications can serve as reminders for users to complete certain tasks, such as making a payment, submitting a form, or taking a medication.
+3. ***Offering exclusive deals and promotions***: Push notifications can offer exclusive deals and promotions to users, which can incentivize them to make a purchase or take a desired action.
 
-4. ***Offering exclusive deals and promotions***: Push notifications can offer exclusive deals and promotions to users, which can incentivize them to make a purchase or take a desired action.
+4. ***Improving user experience***: Push notifications can provide a better user experience by sending relevant and timely information to users, which can enhance their overall app experience.
 
-5. ***Improving user experience***: Push notifications can provide a better user experience by sending relevant and timely information to users, which can enhance their overall app experience.
+5. ***Keeping users engaged***: Push notifications can remind users about the app and encourage them to use it more frequently. They can also provide personalized and relevant content to users based on their preferences, which can increase engagement.
 
-### What are the core value proposition for having a feature like Push Notifications in any application?
+### What are the core value proposition for having Push Notifications in any application?
 
-1. ***User Engagement***: Push notifications can be used to engage users by keeping them updated with relevant information, promotions, and offers. This can improve user retention and drive repeat usage of the application.
+1. ***User engagement***: Push notifications can be used to engage users by keeping them updated with relevant information, promotions, and offers. This can improve user retention and drive repeat usage of the application.
 
 2. ***Personalization***: By using push notifications to deliver personalized content and messages to users, the application can improve the overall user experience and build stronger relationships with its users.
 
-3. ***Real-Time Communication***: Push notifications can be used to deliver time-sensitive information to users in real-time. This can include alerts, reminders, and updates on important events or changes.
+3. ***Real-Time communication***: Push notifications can be used to deliver time-sensitive information to users in real-time. This can include alerts, reminders, and updates on important events or changes.
 
-4. ***Improved Conversion Rates***: By using push notifications to target users with relevant offers and promotions, applications can increase conversion rates and drive sales.
+4. ***Improved conversion rates***: By using push notifications to target users with relevant offers and promotions, applications can increase conversion rates and drive sales.
 
-5. ***App Usage***: Push notifications can also be used to encourage users to return to the application by reminding them of features they may have forgotten about or encouraging them to complete certain actions.
+5. ***App usage***: Push notifications can also be used to encourage users to return to the application by reminding them of features they may have forgotten about or encouraging them to complete certain actions.
 
 ### Some Essential Features of Push Notification
 
@@ -79,9 +79,9 @@
 
 ### What all APIs needs to be developed
 
-1. ***Notification Sending API***: This API will allow application teams to send push notifications to their users on registered devices.
+1. ***Send Notification API***: This API will allow application teams to send push notifications to their users on registered devices.
 
-2. ***Notification Tracking API***: This API will allow application teams to track the delivery and open rates of their push notifications.
+2. ***Track Notification API***: This API will allow application teams to track the delivery and open rates of their push notifications.
 
 3. ***Reporting API***: This API will allow application teams to access reports on their push notification campaigns, including engagement rates and user feedback.
 
