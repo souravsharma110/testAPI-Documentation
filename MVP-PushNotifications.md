@@ -72,14 +72,10 @@
 
 ### What all APIs needs to be developed
 
-1. ***Authentication API***: This API will handle the authentication of the users and applications accessing the push notification software.
+1. ***Notification Sending API***: This API will allow application teams to send push notifications to their users on registered devices.
 
-2. ***User Management API***: This API will allow application teams to manage their users, such as registering new users, updating user information, and deleting users.
+2. ***Notification Tracking API***: This API will allow application teams to track the delivery and open rates of their push notifications.
 
-3. ***Device Registration API***: This API will allow application teams to register devices for push notifications, such as mobile devices or web browsers.
+3. ***Reporting API***: This API will allow application teams to access reports on their push notification campaigns, including engagement rates and user feedback.
 
-4. ***Notification Sending API***: This API will allow application teams to send push notifications to their users on registered devices.
-
-5. ***Notification Tracking API***: This API will allow application teams to track the delivery and open rates of their push notifications.
-
-6. ***Reporting API***: This API will allow application teams to access reports on their push notification campaigns, including engagement rates and user feedback.
+4. ***Authentication API***: This API will handle the authentication of the users and applications accessing the push notification software.
